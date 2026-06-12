@@ -1,27 +1,442 @@
-# 💫 About Me:
-I am currently working on building scalable full-stack applications using React, Spring Boot, and Node.js while developing AI-powered tools and improving backend architecture for real-world systems. I am looking to collaborate on full-stack (MERN/Spring Boot) and AI/ML projects, especially those focused on real-world deployment and cloud-native solutions. I am looking for help with advanced system design, AWS cloud architecture, and deploying machine learning models in production environments. I am currently learning AWS, system design, deep learning, and Docker to strengthen my cloud and scalability skills. Ask me about full-stack development, REST APIs, backend architecture, and machine learning projects. Fun fact: I enjoy building complete end-to-end products from idea to deployment and have mentored over 70 students while exploring the intersection of full stack and AI.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Vijay%20Babu%20Arumilli&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaybabu-arumilli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijaybabuarumilli99@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Senior+Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Cloud-Native+Applications;React+%7C+Spring+Boot+%7C+Node.js+%7C+AWS"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vijaybabu9194&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vijaybabu9194&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaybabu9194&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vijaybabu9194&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20Engineer-Machine%20Learning-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Full%20Stack-Product%20Engineer-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-4F46E5?style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vijaybabu9194&limit=5&theme=default&combine_all_yearly_contributions=true)
+<a href="https://portfolio.example.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vijaybabu-arumilli">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vijaybabuarumilli99@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vijaybabu9194">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Vijaybabu9194&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/Vijaybabu9194?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/stars/Vijaybabu9194?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vijaybabu9194&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I am a software engineer focused on building scalable, cloud-native, and AI-powered applications that solve real-world business problems. My expertise spans full-stack development, backend architecture, machine learning systems, and modern cloud infrastructure.
+
+I specialize in designing production-ready systems using React, Spring Boot, Node.js, Java, AWS, Docker, and modern DevOps practices while continuously exploring advanced system design and distributed architectures.
+
+My engineering philosophy centers around building complete end-to-end products—from ideation and architecture to deployment and scaling—while maintaining high standards for performance, security, maintainability, and developer experience.
+
+### Areas of Expertise
+
+- Enterprise Full Stack Development
+- Backend Architecture & Distributed Systems
+- AI & Machine Learning Solutions
+- Cloud-Native Engineering
+- REST API Design & Integration
+- Database Design & Optimization
+- DevOps & CI/CD Automation
+- Performance Engineering
+- System Design & Scalability
+- Technical Mentorship
+
+### Open To
+
+- Full Stack Engineering Collaborations
+- AI/ML Product Development
+- Open Source Contributions
+- Cloud Architecture Projects
+- Technical Consulting
+- Engineering Leadership Opportunities
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c,r"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,vite"/>
+
+</p>
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgresql,firebase"/>
+
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,gcp,git,github,gitlab,cloudflare,linux"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Machine Learning | Advanced | End-to-end ML pipelines, feature engineering, model deployment |
+| Deep Learning | Intermediate | CNNs, RNNs, Transfer Learning, Neural Networks |
+| MLOps | Intermediate | MLflow, Experiment Tracking, Deployment Workflows |
+| Data Analysis | Advanced | Pandas, NumPy, Statistical Analysis |
+| Computer Vision | Intermediate | Image Classification & Detection Systems |
+| NLP | Intermediate | Text Processing, Embeddings, LLM Integrations |
+| Model Deployment | Intermediate | Dockerized ML Services & Cloud Deployment |
+| AI Product Engineering | Advanced | AI-powered SaaS Applications & Automation |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AI Powered Learning Platform</b></summary>
+
+### Overview
+
+An intelligent learning platform integrating machine learning recommendations, personalized learning paths, analytics dashboards, and scalable backend architecture.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | React, Spring Boot, MongoDB, AWS |
+| Scale | 10K+ Users |
+| Performance | Sub-200ms API Response |
+| Security | JWT, RBAC, Secure APIs |
+| Impact | Personalized Learning Experience |
+| Repository | Private |
+
+#### Highlights
+
+- Personalized recommendation engine
+- AI-driven learning analytics
+- Scalable microservice architecture
+- Cloud-native deployment strategy
+
+</details>
+
+<details>
+<summary><b>Real Estate Management Platform</b></summary>
+
+### Overview
+
+A full-scale property management ecosystem with advanced filtering, CRM integrations, lead management, analytics, and secure administration workflows.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | MERN Stack |
+| Scale | Enterprise Ready |
+| Performance | Optimized Query Layer |
+| Security | JWT + Role Based Access |
+| Impact | Streamlined Property Operations |
+| Repository | Private |
+
+#### Highlights
+
+- Property listing management
+- Lead tracking workflows
+- Advanced search architecture
+- Responsive user experience
+
+</details>
+
+<details>
+<summary><b>Cloud Native Student Management System</b></summary>
+
+### Overview
+
+A highly scalable student management platform supporting attendance, assessments, analytics, and cloud-native deployments.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Spring Boot, React, AWS |
+| Scale | Multi-Tenant |
+| Performance | Highly Available Architecture |
+| Security | Authentication & Authorization |
+| Impact | Academic Process Automation |
+| Repository | Private |
+
+#### Highlights
+
+- Multi-role access control
+- Real-time analytics
+- CI/CD enabled deployment
+- Containerized infrastructure
+
+</details>
+
+<details>
+<summary><b>AI Resume Screening System</b></summary>
+
+### Overview
+
+Machine learning-based resume screening platform capable of evaluating candidate profiles and ranking applicants.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, TensorFlow, Flask |
+| Scale | Thousands of Resumes |
+| Performance | Automated Candidate Ranking |
+| Security | Secure Processing Pipelines |
+| Impact | Reduced Hiring Time |
+| Repository | Private |
+
+#### Highlights
+
+- NLP-based candidate analysis
+- Automated ranking engine
+- Recruiter dashboard
+- ML lifecycle tracking
+
+</details>
+
+---
+
+# Experience
+
+## Full Stack Developer
+
+### Freelance & Product Engineering
+
+**2023 — Present**
+
+Designing and delivering production-grade web applications, backend systems, cloud-native solutions, and AI-powered products.
+
+#### Scope of Work
+
+- Architected scalable full-stack applications
+- Designed RESTful APIs and backend services
+- Implemented cloud deployment pipelines
+- Optimized database performance
+- Built AI-assisted business solutions
+- Delivered end-to-end software products
+
+**Skills**
+
+`Java` `Spring Boot` `React` `Node.js` `MongoDB` `AWS` `Docker` `Machine Learning`
+
+---
+
+## Technical Mentor
+
+### Software Engineering & Programming
+
+**2022 — Present**
+
+Mentored aspiring developers across full-stack development, Java programming, DSA, system design, and project development.
+
+#### Scope of Work
+
+- Trained 70+ students
+- Conducted code reviews
+- Guided project implementations
+- Created technical learning roadmaps
+- Assisted with interview preparation
+
+**Skills**
+
+`Teaching` `System Design` `Java` `DSA` `Mentorship`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|------------|
+| Technical Mentorship | Mentored 70+ Students |
+| Full Stack Expertise | Built Multiple Production Applications |
+| AI Engineering | Developed Real-World ML Solutions |
+| Cloud Learning Journey | AWS & Cloud-Native Focus |
+| Product Engineering | End-to-End Product Delivery Experience |
+| Open Source Growth | Continuous Contribution & Learning |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Java%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Engineering%20Courses-6D28D9?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijaybabu9194&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaybabu9194&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaybabu9194&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vijaybabu9194&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaybabu9194&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vijaybabu9194/Vijaybabu9194/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - AWS Cloud Architecture
+  - System Design
+  - Docker & Kubernetes
+  - Deep Learning
+  - Distributed Systems
+
+Building:
+  - AI Powered Products
+  - Cloud Native Applications
+  - Enterprise Full Stack Systems
+  - Scalable Backend Services
+
+Exploring:
+  - MLOps
+  - Generative AI
+  - Microservices
+  - Event Driven Architectures
+
+Open_To:
+  - Full Stack Opportunities
+  - AI Engineering Roles
+  - Open Source Collaboration
+  - Technical Mentorship
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:vijaybabuarumilli99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-vijaybabuarumilli99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vijaybabu-arumilli">
+<img src="https://img.shields.io/badge/LinkedIn-Vijay%20Babu%20Arumilli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vijaybabu9194">
+<img src="https://img.shields.io/badge/GitHub-Vijaybabu9194-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio.example.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Engineering scalable systems today while building intelligent products for tomorrow."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
